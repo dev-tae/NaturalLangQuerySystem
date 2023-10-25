@@ -1,0 +1,8 @@
+# Data directory
+data/
+
+# Virtual Environment
+natural_lang_query_system_env/
+
+# Model Checkpoints
+models/
